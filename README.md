@@ -1,2 +1,2 @@
 **Linux-commands**
-
+I will upload details Linux commands...
