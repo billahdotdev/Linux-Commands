@@ -1,6 +1,6 @@
 **Linux-commands**
 
-I will upload Linux commands soon...         
+I will upload Linux commands soon...           
   
 
 
