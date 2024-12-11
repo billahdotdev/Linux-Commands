@@ -139,3 +139,20 @@
           ◦ wget URL → Download files from a URL.
 
 
+# Package Management
+
+  1. Installing/Removing Software (Debian-based distros like Ubuntu):
+    
+          ◦ sudo apt update → Update package list.
+          
+          ◦ sudo apt install package → Install a package.
+          
+          ◦ sudo apt remove package → Remove a package.
+
+        
+  2. For RedHat-based Distros:
+    
+          ◦ yum or dnf → Use similar commands.
+
+
+
