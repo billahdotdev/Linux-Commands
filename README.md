@@ -13,6 +13,8 @@
   
 ### Structure of a Command:
 
+      command [options] [arguments]
+
 
 
 
