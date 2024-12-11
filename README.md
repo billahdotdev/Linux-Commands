@@ -155,4 +155,26 @@
           ◦ yum or dnf → Use similar commands.
 
 
+# Shell Scripting Basics
+
+  1. Create a Script:
+     
+  ◦ Create a file with .sh extension:
+          
+          #!/bin/bash
+          echo "Hello, Linux!"
+          
+  ◦ Make it executable: chmod +x script.sh.
+  
+  ◦ Run the script: ./script.sh.
+  
+
+  2. Loops and Conditions:
+       
+         for i in {1..5}; do
+             echo "Count $i"
+         done
+
+
+
 
