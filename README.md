@@ -14,12 +14,10 @@
 ### Structure of a Command:
 
       command [options] [arguments]
-
-*Command:* The program you want to run (e.g., ls to list files).
-
-*Options:* Modify the behavior of the command (e.g., -l for long format).
-
-*Arguments:* The file, directory, or data you want the command to work on.
+      
+  • Command: The program you want to run (e.g., ls to list files).
+  • Options: Modify the behavior of the command (e.g., -l for long format).
+  • Arguments: The file, directory, or data you want the command to work on.
 
 
 ### Examples:
