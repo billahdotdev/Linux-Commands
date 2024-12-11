@@ -125,3 +125,17 @@
     
           ◦ chown user:group file → Change file owner and group.
 
+
+# Network Commands
+
+  1. Check Network Configuration:
+    
+          ◦ ifconfig or ip addr → Show network interfaces.
+          ◦ ping [hostname] → Test connectivity.
+
+        
+  2. Download Files:
+    
+          ◦ wget URL → Download files from a URL.
+
+
