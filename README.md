@@ -86,3 +86,19 @@
           ◦ nano file → Open a simple text editor.
        
           ◦ vim file → Open a powerful editor (requires learning commands like i to insert, :wq to save and exit).
+
+
+# Managing Processes
+
+  1. Check Running Processes:
+     
+          ◦ ps → Show active processes.
+       
+          ◦ top or htop → Interactive process monitoring.
+  
+          
+  2. Kill Processes:
+     
+          ◦ kill PID → Kill a process by its ID.
+       
+          ◦ killall name → Kill processes by name.
