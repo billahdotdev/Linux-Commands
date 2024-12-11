@@ -22,3 +22,4 @@
 *Arguments:* The file, directory, or data you want the command to work on.
 
 
+### Examples:
