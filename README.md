@@ -177,4 +177,19 @@
 
 
 
+# Advanced Tips
+  1. Searching Files:
+     
+          ◦ grep "text" file → Search for text in a file.
+       
+          ◦ find /path -name "filename" → Locate files.
 
+     
+  2. Archiving and Compressing:
+     
+          ◦ tar -czvf archive.tar.gz /path → Compress files into a tarball.
+
+     
+  3. Permissions for Multiple Files:
+
+          ◦ chmod -R 755 /path → Change permissions recursively.
