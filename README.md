@@ -40,7 +40,7 @@
             ▪ cd .. → Move up one level.
 
    
-3. Listing Files:
+2. Listing Files:
    
         ◦ ls → List files in the current directory.
    
@@ -49,12 +49,20 @@
         ◦ ls -l → Display details like permissions and size.
 
    
-  5. Creating and Removing:
-        ◦ touch filename → Create an empty file.
-        ◦ mkdir dirname → Create a directory.
-        ◦ rm filename → Remove a file.
-        ◦ rm -r dirname → Remove a directory recursively.
-  6. Moving and Copying Files:
-        ◦ mv file1 file2 → Rename file1 to file2.
-        ◦ mv file /path/ → Move file to /path/.
-        ◦ cp file /path/ → Copy file to /path/.
+  3. Creating and Removing:
+     
+          ◦ touch filename → Create an empty file.
+       
+          ◦ mkdir dirname → Create a directory.
+       
+          ◦ rm filename → Remove a file.
+       
+          ◦ rm -r dirname → Remove a directory recursively.
+     
+  4. Moving and Copying Files:
+   
+          ◦ mv file1 file2 → Rename file1 to file2.
+       
+          ◦ mv file /path/ → Move file to /path/.
+       
+          ◦ cp file /path/ → Copy file to /path/.
