@@ -23,3 +23,8 @@
 
 
 ### Examples:
+
+    • ls -l /home → List files in long format in /home.
+    
+    • cp file.txt /tmp → Copy file.txt to /tmp.
+
