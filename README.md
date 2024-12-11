@@ -1,7 +1,7 @@
                            
 **Linux-commands**
 
-**How to Open the Terminal?
+## How to Open the Terminal?
 
   • Shortcut keys: Ctrl+Alt+T (Ubuntu-based distros).
     
