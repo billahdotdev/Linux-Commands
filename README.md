@@ -102,3 +102,26 @@
           ◦ kill PID → Kill a process by its ID.
        
           ◦ killall name → Kill processes by name.
+
+
+# Permissions and Ownership
+
+  1. View File Permissions:
+     
+          ◦ ls -l → Shows permissions as drwxr-xr-x.
+          
+              ▪ d → Directory.
+              
+              ▪ r → Read, w → Write, x → Execute.
+
+            
+  3. Change Permissions:
+    
+          ◦ chmod → Modify file permissions.
+          
+              ▪ Example: chmod 755 file → Owner can read/write/execute, others can read/execute.
+            
+  4. Change Ownership:
+    
+          ◦ chown user:group file → Change file owner and group.
+
