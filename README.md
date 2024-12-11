@@ -66,3 +66,23 @@
           ◦ mv file /path/ → Move file to /path/.
        
           ◦ cp file /path/ → Copy file to /path/.
+
+
+# Viewing and Editing Files
+
+  1. Display File Contents:
+     
+          ◦ cat file → Display the content of a file.
+       
+          ◦ less file → View file one screen at a time.
+       
+          ◦ head -n 10 file → Display the first 10 lines of a file.
+       
+          ◦ tail -n 10 file → Display the last 10 lines.
+
+     
+  2. Editing Files:
+     
+          ◦ nano file → Open a simple text editor.
+       
+          ◦ vim file → Open a powerful editor (requires learning commands like i to insert, :wq to save and exit).
