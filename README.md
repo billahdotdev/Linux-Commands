@@ -1,5 +1,5 @@
                            
-# **Linux-commands**
+# **Linux-commands** 
 
 ## How to Open the Terminal?
 
